@@ -172,19 +172,21 @@ top:200px ;
     width:100%;
   
 }
-item-top-text
+.item-top-text{
+margin: 0 70px;
+}
 
 .item-tip{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 20px;
+   
 }
 .item-tip2{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 20px;
+
 }
 
 
